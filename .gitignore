@@ -21,6 +21,17 @@ android/local.properties
 android/.gradle/
 android/**/build/
 
+# Backend (Gradle)
+backend/.gradle/
+backend/build/
+backend/**/build/
+backend/music/
+backend/data/
+
+# Frontend (Node/Vite)
+frontend/node_modules/
+frontend/dist/
+
 # Kotlin / tooling
 .kotlin/
 out/
