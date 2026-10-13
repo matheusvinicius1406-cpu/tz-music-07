@@ -12,6 +12,7 @@ M0 research/bootstrap is in progress. No product feature has been implemented ye
 
 - `android/`: native Android project.
 - `backend/`: optional self-hosted Ktor backend.
+- `frontend/`: web client prototype (React + Vite) for the self-hosted backend and UI exploration.
 - `shared/`: shared contracts and DTOs planned for Kotlin Multiplatform.
 - `docs/`: architecture, legal/privacy notes, ADRs, and research evidence.
 - `docker/`: deployment assets for the backend.
