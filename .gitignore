@@ -1,0 +1,35 @@
+*.iml
+.DS_Store
+
+# IDE
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Gradle / Android
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+android/local.properties
+android/.gradle/
+android/**/build/
+
+# Kotlin / tooling
+.kotlin/
+out/
+
+# Secrets and generated artifacts
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.apk
+*.aab
